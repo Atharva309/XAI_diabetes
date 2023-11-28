@@ -20,6 +20,9 @@ The accuracies achieved by our models on the Pima Indian Diabetes dataset are as
 ## Dataset
 The dataset utilized is the Pima Indian Diabetes dataset, which consists of several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
+## Output
+Multiple graphs for each XAI model under each ml model were compared which can be seen in the output pdf.
+
 ## Installation and Usage
 1. Access the [Colab Notebook Link] to view the implementation of the models and XAI techniques.
 2. To replicate the project, download the dataset and run the Colab notebook, which contains step-by-step instructions and code.
