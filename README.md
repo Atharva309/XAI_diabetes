@@ -26,7 +26,28 @@ Multiple graphs for each XAI model under each ml model were compared which can b
 The primary comparisons were:
 
 ### SHAP summary plots 
-![Alt text](relative/path/to/image.png)
+![CNN-SHAPSummary](Output/SHAP summary plots/CNN - SHAP summary.png)
+![MLP-SHAPSummary](Output/SHAP summary plots/MLP - SHAP summary.png)
+![RNN-SHAPSummary](Output/SHAP summary plots/RNN - SHAP summary.png)
+![REG-SHAPSummary](Output/SHAP summary plots/REG - SHAP summary.png)
+
+### LIME plots
+![CNN-LIME](Output/LIME plots/CNN - LIME.png)
+![MLP-LIME](Output/LIME plots/MLP - LIME.png)
+![RNN-LIME](Output/LIME plots/RNN - LIME.png)
+![REG-LIME](Output/LIME plots/REG - LIME.png)
+
+### SHAP vs LIME plots
+![CNN-SHAPvsLIME](Output/SHAP vs LIME plots/CNN - SHAP vs LIME.png)
+![MLP-SHAPvsLIME](Output/SHAP vs LIME plots/MLP - SHAP vs LIME.png)
+![RNN-SHAPvsLIME](Output/SHAP vs LIME plots/RNN - SHAP vs LIME.png)
+![REG-SHAPvsLIME](Output/SHAP vs LIME plots/REG - SHAP vs LIME.png)
+
+### ALE plots
+![CNN-ALE](Output/ALE plots/CNN - ALE.png)
+![MLP-ALE](Output/ALE plots/MLP - ALE.png)
+![RNN-ALE](Output/ALE plots/RNN - ALE.png)
+![REG-ALE](Output/ALE plots/REG - ALE.png)
 
 ## Acknowledgments
 - Credit to the creators of the Pima Indian Diabetes dataset.
