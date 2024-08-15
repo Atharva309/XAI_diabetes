@@ -32,7 +32,7 @@ The primary comparisons were:
 ![REG-SHAPSummary](Output/SHAP summary plots/REG - SHAP summary.png)
 
 ### LIME plots
-![CNN-LIME](Output/LIME plots/CNN - LIME.png)
+![CNN-LIME](XAI_diabetes/Output/LIME plots/CNN - LIME.png)
 ![MLP-LIME](Output/LIME plots/MLP - LIME.png)
 ![RNN-LIME](Output/LIME plots/RNN - LIME.png)
 ![REG-LIME](Output/LIME plots/REG - LIME.png)
