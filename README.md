@@ -26,11 +26,18 @@ Multiple graphs for each XAI model under each ml model were compared which can b
 The primary comparisons were:
 
 ### SHAP summary plots 
-
-![CNN-SHAPSummary](Output/SHAP summary plots/CNN - SHAP summary.png)
-![MLP-SHAPSummary](Output/SHAP summary plots/MLP - SHAP summary.png)
-![RNN-SHAPSummary](Output/SHAP summary plots/RNN - SHAP summary.png)
-![REG-SHAPSummary](Output/SHAP summary plots/REG - SHAP summary.png)
+<p align="center">
+<img src="Output/SHAP summary plots/CNN - SHAP summary.png"Title" "/>
+</p>
+<p align="center">
+<img src="Output/SHAP summary plots/MLP - SHAP summary.png"Title" "/>
+</p>
+<p align="center">
+<img src="Output/SHAP summary plots/RNN - SHAP summary.png"Title" "/>
+</p>
+<p align="center">
+<img src="Output/SHAP summary plots/REG - SHAP summary.png"Title" "/>
+</p>
 
 ### LIME plots
 
