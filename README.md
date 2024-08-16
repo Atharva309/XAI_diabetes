@@ -26,13 +26,15 @@ Multiple graphs for each XAI model under each ml model were compared which can b
 The primary comparisons were:
 
 ### SHAP summary plots 
+
 <p align="center">
-  <img src="Output/SHAP summary plots/MLP - SHAP summary.png" title="SHAP Summary Plot" width="500" height="auto" />
+  <img src="Output/SHAP summary plots/CNN - SHAP summary.png" title="CNN SHAP Summary Plot" width="500" height="auto" />
 </p>
 
 <p align="center">
-<img src="Output/SHAP summary plots/MLP - SHAP summary.png"Title" "/>
+  <img src="Output/SHAP summary plots/MLP - SHAP summary.png" title="MLP SHAP Summary Plot" width="500" height="auto" />
 </p>
+
 <p align="center">
 <img src="Output/SHAP summary plots/RNN - SHAP summary.png"Title" "/>
 </p>
