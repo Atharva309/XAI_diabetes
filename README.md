@@ -27,8 +27,9 @@ The primary comparisons were:
 
 ### SHAP summary plots 
 <p align="center">
-<img src="Output/SHAP summary plots/CNN - SHAP summary.png"Title" "/>
+  <img src="Output/SHAP summary plots/MLP - SHAP summary.png" title="SHAP Summary Plot" width="500" height="auto" />
 </p>
+
 <p align="center">
 <img src="Output/SHAP summary plots/MLP - SHAP summary.png"Title" "/>
 </p>
