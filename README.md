@@ -32,15 +32,21 @@ The primary comparisons were:
 </p>
 
 <p align="center">
-  <img src="Output/SHAP summary plots/MLP - SHAP summary.png" title="MLP SHAP Summary Plot" width="500" height="auto" />
+  <img src="Output/SHAP summary plots/RNN - SHAP summary.png" title="RNN SHAP Summary Plot" width="500" height="auto" />
 </p>
 
 <p align="center">
-<img src="Output/SHAP summary plots/RNN - SHAP summary.png"Title" "/>
+  <img src="Output/SHAP summary plots/REG - SHAP summary.png" title="REG SHAP Summary Plot" width="500" height="auto" />
 </p>
+
 <p align="center">
-<img src="Output/SHAP summary plots/REG - SHAP summary.png"Title" "/>
+  <img src="Output/SHAP summary plots/MLP - SHAP summary.png" title="MLP SHAP Summary Plot" width="500" height="auto" />
 </p>
+
+SUMMARY - 
+Common Important Features: Across all models, Glucose, BMI, and Age consistently emerge as key predictors.
+Variability Across Models: The RNN model emphasizes Age and BMI more than the others, while the CNN and Regression models strongly highlight Glucose. The MLP model shows a broader distribution of feature impacts, reflecting the non-linear interactions it captures.
+Model-Specific Insights: Each model's unique architecture influences how it prioritizes different features, providing complementary perspectives on feature importance.
 
 ### LIME plots
 
